@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FREDIMOBILE</string>
+    <string name="fredi_mobile">FREDI Mobile</string>
+    <string name="bienvenue_sur_l_application_mobile_fredi">Bienvenue sur l&#39;application mobile FREDI.</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="todo">TODO</string>
+    <string name="veuillez_vous_connecter">Veuillez vous connecter.</string>
+</resources>
